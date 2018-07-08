@@ -7,7 +7,7 @@ public class Task16If {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        if((a >= 13 && a <= 16) && (b >= 13 && b <=16)){
+        if((a >= 13 && a <= 18) && (b >= 13 && b <=18)){
             System.out.println("TAK");
         }else{
             System.out.println("NIE");
